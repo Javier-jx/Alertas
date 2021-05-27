@@ -1,6 +1,7 @@
 import 'package:flutter_application_widget/pages/alert_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_application_widget/routes/routes.dart';
+
 void main() => runApp(MyApp());
  
 class MyApp extends StatelessWidget {
